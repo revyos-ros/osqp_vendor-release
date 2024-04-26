@@ -1,3 +1,26 @@
+## osqp_vendor (humble) - 0.2.0-2
+
+The packages in the `osqp_vendor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble osqp_vendor` on `Fri, 26 Apr 2024 03:09:31 -0000`
+
+The `osqp_vendor` package was released.
+
+Version of package(s) in repository `osqp_vendor`:
+
+- upstream repository: https://github.com/tier4/osqp_vendor.git
+- release repository: https://github.com/revyos-ros/osqp_vendor-release.git
+- rosdistro version: `0.2.0-1`
+- old version: `0.2.0-1`
+- new version: `0.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## osqp_vendor (rolling) - 0.2.0-1
 
 The packages in the `osqp_vendor` repository were released into the `rolling` distro by running `/home/daisuke/.local/bin/bloom-release --rosdistro rolling --track rolling osqp_vendor -e` on `Sun, 23 Oct 2022 11:56:20 -0000`
