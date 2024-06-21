@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/osqp_vendor-release
 tracks:
   foxy:
     actions:
